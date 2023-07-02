@@ -1,2 +1,2 @@
-# hand sign detection
+# PycharmProjects
  
